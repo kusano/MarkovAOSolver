@@ -1,0 +1,12 @@
+16
+16
+2
+b
+s
+6
+:s
+b:bs
+bb:bbs
+bbb:bbbs
+bbbb:bbbbs
+bbbbb:bbbbbs

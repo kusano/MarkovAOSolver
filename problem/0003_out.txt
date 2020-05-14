@@ -1,0 +1,11 @@
+Max step: 16
+Max length: 16
+Alphabet: s
+Samples:
+  uzuki -> suzuki
+Length: 1
+!!! Found 1 lines solution
+::s
+Length: 2
+Length: 3
+Length: 4

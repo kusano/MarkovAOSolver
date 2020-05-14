@@ -1,0 +1,25 @@
+Max step: 16
+Max length: 16
+Alphabet: b s
+Samples:
+   -> s
+  b -> bs
+  bb -> bbs
+  bbb -> bbbs
+  bbbb -> bbbbs
+  bbbbb -> bbbbbs
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+Length: 6
+Length: 7
+!!! Found 3 lines solution
+sb:bs
+s::
+:ss
+Length: 8
+Length: 9
+Length: 10
+Length: 11

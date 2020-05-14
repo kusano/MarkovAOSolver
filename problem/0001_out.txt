@@ -1,0 +1,21 @@
+Max step: 16
+Max length: 16
+Alphabet: Hello, World!
+Samples:
+  Hello, -> World!
+Length: 1
+Length: 2
+!!! Found 2 lines solution
+Hello,:
+::World!
+!!! Found 1 lines solution
+Hello,::World!
+Length: 3
+Length: 4
+Length: 5
+Length: 6
+Length: 7
+Length: 8
+Length: 9
+Length: 10
+Length: 11

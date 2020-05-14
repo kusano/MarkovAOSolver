@@ -1,0 +1,22 @@
+Max step: 16
+Max length: 16
+Alphabet: o odd even
+Samples:
+   -> even
+  o -> odd
+  oo -> even
+  ooo -> odd
+  oooo -> even
+  ooooo -> odd
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+!!! Found 3 lines solution
+oo:
+o::odd
+::even
+Length: 6
+Length: 7
+Length: 8

@@ -1,0 +1,24 @@
+Max step: 16
+Max length: 16
+Alphabet: R P S
+Samples:
+  R -> P
+  P -> S
+  S -> R
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+Length: 6
+!!! Found 4 lines solution
+R:
+P::S
+S::R
+::P
+!!! Found 3 lines solution
+R::P
+P::S
+S::R
+Length: 7
+Length: 8

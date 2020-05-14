@@ -1,0 +1,19 @@
+Max step: 16
+Max length: 16
+Alphabet: i w
+Samples:
+  i -> i
+  ii -> iwi
+  iii -> iwiwi
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+!!! Found 1 lines solution
+ii:iwi
+Length: 6
+Length: 7
+Length: 8
+Length: 9
+Length: 10

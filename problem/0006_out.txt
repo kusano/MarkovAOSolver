@@ -1,0 +1,40 @@
+Max step: 16
+Max length: 16
+Alphabet: A B C
+Samples:
+  A -> A
+  B -> B
+  C -> C
+  AA -> AA
+  AB -> AB
+  AC -> AC
+  BA -> AB
+  BB -> BB
+  BC -> BC
+  CA -> AC
+  CB -> BC
+  CC -> CC
+  ABC -> ABC
+  ACB -> ABC
+  BAC -> ABC
+  BCA -> ABC
+  CAB -> ABC
+  CBA -> ABC
+  BCABBA -> AABBBC
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+Length: 6
+Length: 7
+Length: 8
+Length: 9
+Length: 10
+Length: 11
+Length: 12
+!!! Found 3 lines solution
+BA:AB
+CA:AC
+CB:BC
+Length: 13

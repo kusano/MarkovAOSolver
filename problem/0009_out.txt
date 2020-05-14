@@ -1,0 +1,27 @@
+Max step: 8
+Max length: 8
+Alphabet: 0 1 2
+Samples:
+  0 -> 1
+  1 -> 0
+  00 -> 11
+  01 -> 10
+  10 -> 01
+  11 -> 00
+  00101 -> 11010
+Length: 1
+Length: 2
+Length: 3
+Length: 4
+Length: 5
+Length: 6
+Length: 7
+Length: 8
+Length: 9
+Length: 10
+!!! Found 4 lines solution
+20:12
+21:02
+2::
+:2
+Length: 11

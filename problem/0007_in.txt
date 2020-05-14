@@ -1,0 +1,13 @@
+16
+16
+3
+o
+odd
+even
+6
+:even
+o:odd
+oo:even
+ooo:odd
+oooo:even
+ooooo:odd

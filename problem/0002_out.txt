@@ -1,0 +1,18 @@
+16
+16
+1
+s
+1
+snuke_sample:nuke_ample
+Max step: 16
+Max length: 16
+Alphabet: s
+Samples:
+  snuke_sample -> nuke_ample
+Length: 1
+!!! Found 1 lines solution
+s:
+Length: 2
+Length: 3
+Length: 4
+Length: 5
